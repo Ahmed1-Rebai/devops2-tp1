@@ -25,8 +25,20 @@ Build de production :
 npm run build
 npm start
 ```
+# Livrable TP1
 
+- Membre A : Prénom Nom (@loginA)
+- Membre B : Prénom Nom (@loginB)
+- Fork : https://github.com/<loginA>/devops2-tp1
+- Site Jira : https://<site>.atlassian.net
+- QST-2 : réalisée par A
+- QST-3 : réalisée par B
+- QST-4 (bonus) : réalisée / non réalisée
+- Liaison Jira ↔ GitHub (bonus) : réalisée / non réalisée
+
+![Tableau Jira du sprint 1](tp1-jira.png)
 ## Structure
+
 
 - `app/layout.tsx` : layout racine (langue, métadonnées)
 - `app/page.tsx` : page d'accueil
